@@ -1,0 +1,4 @@
+[20-Jun-2012 10:22:54] PHP Fatal error:  Call to undefined function  get_header() in /home3/curtsnar/public_html/dancingcarrots/wp-content/themes/dancingcarrots/index.php on line 385
+[04-Oct-2012 17:00:48] PHP Fatal error:  Call to undefined function  get_header() in /home3/curtsnar/public_html/dancingcarrots/wp-content/themes/dancingcarrots/index.php on line 1
+[14-Nov-2012 08:34:02] PHP Fatal error:  Call to undefined function  get_header() in /home3/curtsnar/public_html/dancingcarrots/wp-content/themes/dancingcarrots/index.php on line 1
+[14-Nov-2012 08:34:02] PHP Fatal error:  Call to undefined function  get_header() in /home3/curtsnar/public_html/dancingcarrots/wp-content/themes/dancingcarrots/index.php on line 1
